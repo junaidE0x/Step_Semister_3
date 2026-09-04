@@ -3,9 +3,6 @@ package String.Assignment_problems;
 import java.util.Scanner;
 
 public class TypingAccuracy {
-    public TypingAccuracy() {
-    }
-
     public static void checkTypingAccuracy(String original, String typed) {
         int matched = 0;
         int firstMismatch = -1;

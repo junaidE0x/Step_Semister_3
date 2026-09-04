@@ -3,9 +3,6 @@ package String.Assignment_problems;
 import java.util.Scanner;
 
 public class WordLengthProfiler {
-    public WordLengthProfiler() {
-    }
-
     public static void classifyWordLengths(String review) {
         String[] words = review.split("\\s+");
         int shortWords = 0;

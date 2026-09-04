@@ -3,9 +3,6 @@ package String.Assignment_problems;
 import java.util.Scanner;
 
 public class TrafficSignal {
-    public TrafficSignal() {
-    }
-
     public static void findLongestStreak(String signalLog) {
         char currentColour = signalLog.charAt(0);
         char longest = currentColour;

@@ -3,9 +3,6 @@ package String.Assignment_problems;
 import java.util.Scanner;
 
 public class InventoryBalancer {
-    public InventoryBalancer() {
-    }
-
     public static void analyzeInventory(int[] sectionA, int[] sectionB) {
         int totalA = 0;
         int totalB = 0;

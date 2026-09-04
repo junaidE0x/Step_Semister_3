@@ -3,9 +3,6 @@ package String.Assignment_problems;
 import java.util.Scanner;
 
 public class SeatDuplicator {
-    public SeatDuplicator() {
-    }
-
     public void checkDuplicateSeats(int[] seatNumbers) {
         boolean found = false;
 
