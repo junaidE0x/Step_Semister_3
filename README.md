@@ -15,3 +15,16 @@
 - None
 
 ---
+
+## Date: 28-08-2026
+**Today's Work:**
+- Learnt Programming Concepts needed for Java String Operations & Performance for Lab Practices   
+
+**Next Session Plan:**
+- OOPs fundamentals
+
+
+**Issues Faced:**
+- Implementation of HashMaps
+
+---
