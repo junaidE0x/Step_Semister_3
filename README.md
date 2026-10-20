@@ -43,3 +43,59 @@
 - None
 
 ---
+
+## Date: 28-08-2026
+**Today's Work:**
+- Creating and initializing an Array
+
+
+**Next Session Plan:**
+- OOP Fundamentals
+
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 05-09-2026
+**Today's Work:**
+- Revised OOPs concepts
+
+
+**Next Session Plan:**
+- Class and objects revision
+
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 12-09-2026
+**Today's Work:**
+- Revised Classes and objects
+
+
+**Next Session Plan:**
+- OOP Inheritance and Polymorphism
+
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 19-09-2026
+**Today's Work:**
+- Revised OOP Inheritance and Polymorphism
+
+
+**Next Session Plan:**
+- OOP Abstraction and Interface
+
+
+**Issues Faced:**
+- None
+
+---
