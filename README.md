@@ -46,7 +46,7 @@
 
 ## Date: 28-08-2026
 **Today's Work:**
-- Creating and initializing an array
+- Creating and initializing an Array
 
 
 **Next Session Plan:**
