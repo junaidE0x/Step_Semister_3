@@ -57,3 +57,87 @@
 - None
 
 ---
+
+## Date: 05-09-2026
+**Today's Work:**
+- Revised OOPs concepts
+
+
+**Next Session Plan:**
+- Class and objects revision
+
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 12-09-2026
+**Today's Work:**
+- Revised Classes and objects
+
+
+**Next Session Plan:**
+- OOP Inheritance and Polymorphism
+
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 26-09-2026
+**Today's Work:**
+- Revised OOP Inheritance and Polymorphism
+
+
+**Next Session Plan:**
+- OOP Abstraction and Interface
+
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 26-09-2026
+**Today's Work:**
+- Revised OOP Abstraction and Interface
+
+
+**Next Session Plan:**
+- Object Class Methods, Inner Classes and UML Diagrams
+
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 03-10-2026
+**Today's Work:**
+- Learnt Object Class Methods, Inner Classes and UML Diagrams
+
+
+**Next Session Plan:**
+- Data Structures and Algorithm
+
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 10-10-2026
+**Today's Work:**
+- Learnt Data Structures and Algorithm
+
+
+**Next Session Plan:**
+- DSA and Linear data structures
+
+
+**Issues Faced:**
+- None
+
+---
