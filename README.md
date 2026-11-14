@@ -127,3 +127,31 @@
 - None
 
 ---
+
+## Date: 10-10-2026
+**Today's Work:**
+- Introduction to Data Structures and Algorithm
+
+
+**Next Session Plan:**
+- Sorting in Data Structures and Algorithm
+
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 31-10-2026
+**Today's Work:**
+- Learnt different sorting algorithms in Data Structures and Algorithm
+
+
+**Next Session Plan:**
+- Revision of Data Structures and Algorithm
+
+
+**Issues Faced:**
+- None
+
+---
